@@ -1,5 +1,25 @@
 {
+  "name": "nuxt-ticket-management",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
   "dependencies": {
-    "nest": "^0.1.6"
+    "nuxt": "^3.13.0",
+    "@nuxtjs/tailwindcss": "^6.11.4",
+    "@pinia/nuxt": "^0.5.1",
+    "pinia": "^2.1.7",
+    "@vueuse/core": "^10.9.0",
+    "@vueuse/nuxt": "^10.9.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@types/uuid": "^9.0.8"
   }
 }

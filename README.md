@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+# Ticket Management Project with Nuxt
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
@@ -38,5 +38,8 @@ Locally preview production build:
 ```bash
 npm run preview
 ```
+
+![image](https://github.com/user-attachments/assets/1ac80326-e4e0-47cd-acf9-735d278244c3)
+
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
